@@ -48,7 +48,7 @@ Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
 tensorboard==1.11.0
-tensorflow==1.11.0
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.11.0-cp27-none-linux_x86_64.whl
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
